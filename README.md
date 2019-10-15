@@ -5,3 +5,5 @@ Test
 new branch
 
 takashi
+
+Thank you!
