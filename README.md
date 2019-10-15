@@ -7,3 +7,5 @@ new branch
 takashi
 
 Thank you!
+
+Bye!
