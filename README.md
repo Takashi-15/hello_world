@@ -6,3 +6,4 @@ new branch
 
 new branch2
 on brtest
+hogehoge
